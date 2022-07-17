@@ -6,6 +6,8 @@
 [![percentage of issues still open](http://isitmaintained.com/badge/open/alibaba/canal.svg)](http://isitmaintained.com/project/alibaba/canal "percentage of issues still open")
 
 ## 简介
+canal
+canal
 
 ![](https://img-blog.csdnimg.cn/20191104101735947.png)
 
