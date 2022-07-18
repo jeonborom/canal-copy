@@ -7,8 +7,6 @@
 
 ## 简介
 canal
-canal
-## 简介
 
 ![](https://img-blog.csdnimg.cn/20191104101735947.png)
 
