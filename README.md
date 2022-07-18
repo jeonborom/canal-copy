@@ -7,6 +7,7 @@
 
 ## 简介
 canal
+MySQL增量日志解析工具
 
 ![](https://img-blog.csdnimg.cn/20191104101735947.png)
 
